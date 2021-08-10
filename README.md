@@ -3,6 +3,7 @@
   <a href="https://beacons.page/alvarolou">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alvarolou&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolou&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+2-3 anos XP
 <div style="display: inline_block"><br>
   <img align="center" alt="Lou-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Lou-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
@@ -10,6 +11,7 @@
   <img align="center" alt="Lou-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">  
   <img align="center" alt="Lou-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
 </div>
+0-1 ano XP
 <div style="display: inline_block"><br>
   <img align="center" alt="Lou-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img align="center" alt="Lou-PgSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
