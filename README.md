@@ -8,8 +8,10 @@
   <img align="center" alt="Lou-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Lou-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lou-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">  
-  <img align="center" alt="Lou-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img align="center" alt="Lou-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lou-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img align="center" alt="Lou-PgSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Lou-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">  
   <img align="center" alt="Lou-REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
