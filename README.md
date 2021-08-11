@@ -1,13 +1,12 @@
 ### Olá pessoas, tô estudando um pouco de tudo, aprendiz nas artes da programação
 <div>
-  <a href="https://beacons.page/alvarolou"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alvarolou&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolou&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <a href="https://beacons.page/alvarolou">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alvarolou&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarolou&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+   </a><br>
 </div>
-
-  ##
-2-3 anos XP
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br>2-3 anos XP<br>
   <img align="center" alt="Lou-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Lou-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Lou-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,8 +14,8 @@
   <img align="center" alt="Lou-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
 </div>
 
-0-1 ano XP
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  0-1 ano XP<br>
   <img align="center" alt="Lou-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img align="center" alt="Lou-PgSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Lou-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">  
@@ -29,10 +28,9 @@
   ## 
  
 <div> 
-  Sessão profissional
-  <br>
+  -Sessão profissional<br>
   <a href="www.linkedin.com/in/lourenço-a-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://github.com/AlvaroLou" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
+  <a href="https://github.com/AlvaroLou" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   <a href = "https://programathor.com.br/users/59794"><img src="https://cdn.discordapp.com/attachments/828333764090396693/875004459825107014/logo-programathor.png" target="_blank"></a>
   <a href = "mailto:alvaro.lourenco46@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
@@ -40,7 +38,7 @@
   ##
   
 <div>
-  Sessão pessoal/gamer<br>
+  -Sessão pessoal/gamer<br>
   <a href="https://www.instagram.com/lourenco_a_alves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="http://twitch.tv/joy__boy__" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC97AtEAgo9UHB4QfxRS9Zyg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
