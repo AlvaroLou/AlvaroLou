@@ -31,7 +31,7 @@
   -Sessão profissional<br>
   <a href="www.linkedin.com/in/lourenço-a-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://github.com/AlvaroLou" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-  <a href = "https://programathor.com.br/users/59794"><img src="https://cdn.discordapp.com/attachments/828333764090396693/875009447628517426/logo-programathor.png" target="_blank"></a>
+  <a href = "https://programathor.com.br/users/59794"><img style="border: 3px solid white" src="https://cdn.discordapp.com/attachments/828333764090396693/875009447628517426/logo-programathor.png" target="_blank"></a>
   <a href = "mailto:alvaro.lourenco46@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
