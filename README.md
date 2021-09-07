@@ -43,3 +43,7 @@
   <a href="http://twitch.tv/joy__boy__" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC97AtEAgo9UHB4QfxRS9Zyg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
+
+<div>
+  <img align="right" alt="eu-gif" src="https://discord.com/channels/@me/828333764090396693/884621747461165066">
+</div>
