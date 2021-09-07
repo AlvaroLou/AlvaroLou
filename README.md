@@ -45,5 +45,5 @@
 </div>
 
 <div>
-  <img align="right" alt="eu-gif" src="https://media.discordapp.net/attachments/828333764090396693/884623429775556638/eu.gif">
+  <img align="right" alt="eu-gif" src="https://media.discordapp.net/attachments/828333764090396693/884623787205742662/eu.gif">
 </div>
