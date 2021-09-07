@@ -44,6 +44,6 @@
   <a href="https://www.youtube.com/channel/UC97AtEAgo9UHB4QfxRS9Zyg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-  ###<img align="right" alt="eu-gif" src="https://media.discordapp.net/attachments/828333764090396693/884623787205742662/eu.gif">
-</div>
+<!-- <div>
+  <img align="right" alt="eu-gif" src="https://media.discordapp.net/attachments/828333764090396693/884623787205742662/eu.gif">
+</div> -->
